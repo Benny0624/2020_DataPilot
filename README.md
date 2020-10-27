@@ -1,6 +1,6 @@
 # 2020_DataPilot contest
 ## **Since the data is confidential for the contest host, the data is not allowed to download!
-[Imgur](https://imgur.com/UBXoSos)
+[img]https://i.imgur.com/UBXoSos.jpg[/img]
 ## Language : Python
 
 ## Code part :
